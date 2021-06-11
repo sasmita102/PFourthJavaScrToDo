@@ -7,6 +7,7 @@ let notodo = document.getElementById("noTodo");
  var close = document.querySelector(".button2");
 let inputfield = document.getElementById("listHeading");
 //console.log (heading)
+//june11change
 icon.addEventListener("click",()=>{
     box.classList.toggle("reveal");
     blur.classList.toggle("active");
